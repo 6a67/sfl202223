@@ -5,7 +5,8 @@ PORT1 = 10002   # used by Alice
 PORT2 = 10003   # used by Bob
 
 public_g = 85   # g, public base
-public_p = 1721521895839319678905052879206116244297628155585535737450178608344748052531840924013694224743693    # p, public modulus
+# p, public modulus
+public_p = 1721521895839319678905052879206116244297628155585535737450178608344748052531840924013694224743693
 
 
 def response_decrypt(response_encrypted, key):
@@ -73,5 +74,4 @@ if __name__ == "__main__":
     print(f"Bob->Me: {second_part_of_flag}")
 
     # print the flag
-    print(f"The flag is:\n{first_part_of_flag}{second_part_of_flag}")
-
+    print(f"\nThe flag is:\n{first_part_of_flag}{second_part_of_flag}")

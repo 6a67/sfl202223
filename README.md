@@ -13,10 +13,10 @@
 `fl4g{collision_attack}`
 
 ## Wait; pay extra for premium?!
-fl4g{sql_injection_is_a_money_saver!}
+`fl4g{sql_injection_is_a_money_saver!}`
 
 ## All dat cookies... njam njam!
-fl4g{Mhhhhh_these_are_some_delicious_cookies!!!}
+`fl4g{Mhhhhh_these_are_some_delicious_cookies!!!}`
 
 ## Order Request Forgery
-fl4g{csrf-really-sucks!?@?@!#?1#}
+`fl4g{csrf-really-sucks!?@?@!#?1#}`

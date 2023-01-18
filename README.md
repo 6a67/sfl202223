@@ -20,3 +20,12 @@
 
 ## Order Request Forgery
 `fl4g{csrf-really-sucks!?@?@!#?1#}`
+
+## Can you crackme?
+`fl4g{bytewise_comparisons_or_static_canaries_weaken_security}`
+
+## Hey, look at my essay!
+`fl4g{b3_c4r3ful_w1th_suid_bit}`
+
+## Game Pointer
+`fl4g{nice_address_you_jumped_to}`
